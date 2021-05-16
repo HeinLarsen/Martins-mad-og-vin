@@ -6,7 +6,7 @@ module.exports = {
   siteName: config.title,
 
   siteUrl: 'https://www.martinsmadogvin.dk',
-  pathPrefix: '',
+  // pathPrefix: '/Martins-mad-og-vin',
   //make editable config & data files available to graphql
   metadata: {
     siteName: config.title,
