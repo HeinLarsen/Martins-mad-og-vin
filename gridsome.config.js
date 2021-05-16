@@ -5,7 +5,7 @@ const config = require("./src/assets/content/data/config.json")
 module.exports = {
   siteName: config.title,
 
-  siteUrl: 'https://sygdrome.github.io',
+  siteUrl: 'https://www.martinsmadogvin.dk',
   pathPrefix: '/Martins-mad-og-vin',
   //make editable config & data files available to graphql
   metadata: {
