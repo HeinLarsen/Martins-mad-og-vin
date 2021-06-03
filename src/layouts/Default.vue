@@ -14,7 +14,10 @@
           <h5>Frederiksværk havn, Havnelinien 17, 3300 Frederiksværk</h5>
       </div>
     </div>
-    <div class="row justify-content-center mt-5">
+    <div class="row justify-content-center text mt-4">
+      <h5><a href="https://book.easytablebooking.com/book/?id=f4b9d&lang=da" target="_blank">Book dit bord allerede nu!</a></h5>
+    </div>
+    <div class="row justify-content-center mt-4">
       <div class="col-auto">
         <p>Følg os på Instagram</p>
       </div>
