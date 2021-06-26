@@ -8,14 +8,28 @@
     <div class="row justify-content-center text mt-5">
       <div class="col-auto">
         <h3>
-          Forventet åbning 3. juli
+          Grand åbning 3. juli
           <br>
         </h3>
           <h5>Frederiksværk havn, Havnelinien 17, 3300 Frederiksværk</h5>
       </div>
     </div>
+    <div class="row justify-content-center mt-3">
+      <div class="col-auto">
+        <p class="m-0">Se vores menu</p>
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      
+      <div class="col-auto">
+        <g-link href="/assets/menu/menu.pdf" target="_blank">Menu</g-link>
+      </div>
+      <div class="col-auto">
+        <g-link href="/assets/menu/drinks.pdf" target="_blank">Drinks</g-link>
+      </div>
+    </div>
     <div class="row justify-content-center text mt-4">
-      <h5><a href="https://book.easytablebooking.com/book/?id=f4b9d&lang=da" target="_blank">Book dit bord allerede nu!</a></h5>
+      <h5><a href="https://book.easytablebooking.com/book/?id=f4b9d&lang=da" target="_blank">Book dit bord her</a></h5>
     </div>
     <div class="row justify-content-center mt-4">
       <div class="col-auto">
