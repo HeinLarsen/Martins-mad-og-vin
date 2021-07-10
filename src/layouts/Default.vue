@@ -8,7 +8,7 @@
     <div class="row justify-content-center text mt-5">
       <div class="col-auto">
         <h3>
-          Grand åbning 3. juli
+          Åbent alle dage 12-22
           <br>
         </h3>
           <h5>Frederiksværk havn, Havnelinien 17, 3300 Frederiksværk</h5>
