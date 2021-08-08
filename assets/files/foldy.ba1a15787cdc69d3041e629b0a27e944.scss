@@ -1,0 +1,10 @@
+.content {
+    height: 100px;
+    overflow-y: hidden;
+    mask-image: linear-gradient(
+      to top,
+      rgba(255, 255, 255, 0),
+      10%,
+      rgba(255, 255, 255, 1)
+    );
+  }

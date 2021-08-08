@@ -1,0 +1,21 @@
+footer {
+    padding: 10px;
+    min-height: $footer-height;
+    color: white;
+    background: #242424;
+    
+
+    p {
+        color: white !important;
+    }
+
+    a {
+        color: white !important;
+        height: 100%;
+    }
+
+    .icon {
+        margin-right: .25em;
+        font-size: 2em;
+    }
+}
