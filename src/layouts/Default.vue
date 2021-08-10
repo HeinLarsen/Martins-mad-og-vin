@@ -16,7 +16,7 @@
     </div>
     <div class="row justify-content-center mt-3">
       <div class="col-auto">
-        <p class="m-0">Se vores menu</p>
+        <p class="m-0">Se vores menu & drikke</p>
       </div>
     </div>
     <div class="row justify-content-center">
@@ -24,9 +24,9 @@
       <div class="col-auto">
         <g-link href="/assets/menu/menu.pdf" target="_blank">Menu</g-link>
       </div>
-      <div class="col-auto">
+      <!-- <div class="col-auto">
         <g-link href="/assets/menu/drinks.pdf" target="_blank">Drinks</g-link>
-      </div>
+      </div> -->
     </div>
     <div class="row justify-content-center text mt-4">
       <h5><a href="https://book.easytablebooking.com/book/?id=f4b9d&lang=da" target="_blank">Book dit bord her</a></h5>
