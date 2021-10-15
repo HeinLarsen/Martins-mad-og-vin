@@ -1,0 +1,20 @@
+.events {
+	padding: 5px;
+	max-height: 25em;
+	overflow: hidden;
+	
+	img {
+		max-height: 15em !important;
+		overflow: hidden;
+		object-fit: cover;
+	}
+
+}
+
+.event {
+	img {
+		max-height: 30em;
+		width: 100%;
+		object-fit: cover;
+	}	
+}

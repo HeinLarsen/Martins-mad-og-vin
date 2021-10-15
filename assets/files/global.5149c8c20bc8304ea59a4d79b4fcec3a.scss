@@ -72,6 +72,16 @@ i {
   }
 }
 
+a {
+  text-decoration: none;
+  color: #707070;
+
+  &:hover {
+    text-decoration: none;
+    color: #707070;
+  }
+}
+
 .up {
   text-transform: uppercase;
 }
