@@ -25,14 +25,18 @@ body {
 
 }
 
-h5, h3, h4, .price {
+h5,
+h3,
+h4,
+.price {
   font-style: normal;
   font-weight: bold;
   font-family: 'Open sans';
   margin-bottom: 0;
 }
 
-h5, h3 {
+h5,
+h3 {
   text-transform: uppercase;
 }
 
@@ -67,6 +71,7 @@ i {
   a {
     color: white;
   }
+
   a:hover {
     text-decoration: none;
   }
@@ -105,9 +110,43 @@ a {
 
   @media (min-width: 1200px) {
     .container {
-        max-width: 1140px !important;
+      max-width: 1140px !important;
     }
   }
+}
+.klaro .cookie-notice {
+  bottom: 4em;
+  right: 1em;
+}
+.smiley-btn {
+  position: fixed;
+  bottom: 1em;
+  right: 1em;
+  padding: .5em;
+  margin-left: 1em;
+  z-index: 9999;
+}
+
+@media (max-width: 990px) {
+  .klaro .cookie-notice {
+    bottom: 2.3em;
+    right: 0;
+  }
+
+  .smiley-btn {
+    position: fixed;
+    bottom: 0em;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    padding: .5em;
+    z-index: 9999;
+    width: 100%;
+    border-radius: 0;
+  }
+
+  
 }
 
 
