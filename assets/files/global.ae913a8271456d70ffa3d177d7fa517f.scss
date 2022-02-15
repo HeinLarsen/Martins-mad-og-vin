@@ -128,6 +128,9 @@ a {
 }
 
 @media (max-width: 990px) {
+  #klaro {
+    bottom: 2.3em !important;
+  }
   .klaro .cookie-notice {
     bottom: 2.3em !important;
     right: 0;
@@ -145,7 +148,6 @@ a {
     width: 100%;
     border-radius: 0;
   }
-
   
 }
 
